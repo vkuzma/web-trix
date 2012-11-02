@@ -1,0 +1,31 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+    opacity: 0.6;
+}
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    opacity: 0.6;
+}
+form {
+    margin-bottom: 20px;
+}
+.main {
+    width: 100%;
+    height: 100%;
+}
+.content {
+    background-color: orange;
+    opacity: 0.6;
+}

@@ -1,0 +1,12 @@
+header {
+    display: table-row;
+}
+footer {
+    display: table-footer-group
+}
+.main {
+    display: table;
+}
+.content {
+    display: table-cell;
+}

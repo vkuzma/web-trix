@@ -1,0 +1,8 @@
+ul {
+	overflow: hidden;
+	width: 400px;
+	padding: 20px;
+}
+li {
+	float: left;
+}

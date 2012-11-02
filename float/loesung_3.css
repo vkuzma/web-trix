@@ -1,0 +1,7 @@
+ul {
+	display: table-row;
+}
+li {
+	display: table-cell; 
+	padding: 20px;
+}
